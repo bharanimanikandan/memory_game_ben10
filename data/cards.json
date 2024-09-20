@@ -1,0 +1,38 @@
+[
+    {
+        "image": "../assets/diamond.png",
+        "name": "diamond"
+    },
+    {
+        "image": "../assets/fly.png",
+        "name": "fly"
+    },
+    {
+        "image": "../assets/four.png",
+        "name": "four"
+    },
+    {
+        "image": "../assets/ghost.png",
+        "name": "ghost"
+    },
+    {
+        "image": "../assets/grey.png",
+        "name": "grey"
+    },
+    {
+        "image": "../assets/heat.png",
+        "name": "heat"
+    },
+    {
+        "image": "../assets/rip.png",
+        "name": "rip"
+    },
+    {
+        "image": "../assets/up.png",
+        "name": "up"
+    },
+    {
+        "image": "../assets/wild.png",
+        "name": "wild"
+    }
+]
